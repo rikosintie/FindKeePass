@@ -11,4 +11,4 @@ After the script builds the list of files, it copies them to the directory that 
 
 If you run the script from a USB flash drive, just wait for it to finish, eject the drive and follow HarmJ0y's instructions to crack the hashes offline.
 
-I want to port the code the [Hak5 BashBunny](https://hakshop.com/products/bash-bunny) for automated collection.
+I want to port the code the [Hak5 BashBunny](https://hakshop.com/products/bash-bunny) for automated collection. 
