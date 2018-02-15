@@ -1,4 +1,6 @@
 # Find KeePass databases
+A Powershell script to search for Keepass databases.
+
 HarmJ0y wrote a detailed blog on attacking Keepass [A Case Study in Attacking KeePass](http://www.harmj0y.net/blog/redteaming/a-case-study-in-attacking-keepass/)
 
 It's well worth the time to read if you use Keepass or are doing security audits.
